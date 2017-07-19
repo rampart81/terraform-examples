@@ -8,3 +8,4 @@ Terraform 예제 코드들을 모아 놓은 리포 입니다.
  * [Terraform 으로 IAM 설정하기](https://github.com/rampart81/terraform-examples/tree/master/aws_iam)
  * [Terraform 으로 VPC 설정하기](https://github.com/rampart81/terraform-examples/tree/master/aws_vpc)
  * [Terraform 으로 Security Group 설정하기](https://github.com/rampart81/terraform-examples/tree/master/aws_security_group)
+ * [Terraform 으로 Application Load Balancer 설정하기](https://github.com/rampart81/terraform-examples/tree/master/aws_alb)
